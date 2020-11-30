@@ -1,4 +1,4 @@
-package com.jessica.feitosa.aulaspoo.aula02;
+package com.jessica.feitosa.aulaspoo.aula03;
 
 public class Caneta {
 
