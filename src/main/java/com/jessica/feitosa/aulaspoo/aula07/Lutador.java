@@ -55,7 +55,7 @@ public class Lutador {
 
 	}
 
-	private String getNome() {
+	String getNome() {
 		return nome;
 	}
 
@@ -96,7 +96,7 @@ public class Lutador {
 		this.setCategoria();
 	}
 
-	private String getCategoria() {
+	String getCategoria() {
 		return categoria;
 	}
 
