@@ -68,7 +68,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>br.com.inmetrics.app.App</mainClass>
+							<mainClass></mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
